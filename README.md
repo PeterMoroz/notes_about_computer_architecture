@@ -1,1 +1,1 @@
-# notes_about_computer_architecture
+# Inspired by flipping through university notes
