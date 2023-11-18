@@ -1,0 +1,1 @@
+# notes_about_computer_architecture
